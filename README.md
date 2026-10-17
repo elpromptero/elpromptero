@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**elpromptero/elpromptero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>El Promptero</h1>
 
-Here are some ideas to get you started:
+Yo nomás quería jugar Minecraft y terminé poniendo una oficina.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### Qué onda 👋
+
+Soy el Promptero y puse a unos agentes de IA a trabajar en mis proyectos mientras yo me iba a minar. Les dejé tareas, sus computadoras y una instrucción bastante sencilla: no me vayan a romper nada.
+
+Total que ahora también tengo este GitHub.
+
+### Lo que va saliendo
+
+Por aquí voy dejando software, mods y experimentos para conectar lo que pasa en Minecraft con proyectos de verdad. Unos ya jalan, otros todavía necesitan que me siente a ver qué hicieron estos cabrones.
+
+Si ves movimiento por acá, estamos trabajando. Si no, ando consiguiendo hierro.
+
+---
+
+<div align="center">
+<sub>El que rompa producción se va a las papas. 🥔</sub>
+</div>

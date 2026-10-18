@@ -23,5 +23,6 @@ Si ves movimiento por acá, estamos trabajando. Si no, ando consiguiendo hierro.
 ---
 
 <div align="center">
-<sub>El que rompa producción se va a las papas. 🥔</sub>
+<sub>El que rompa producción se va a plantar papas. 🥔</sub>
+<sub>Pa' que aprenda y pa' que respete</sub>
 </div>
